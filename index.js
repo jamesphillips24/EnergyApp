@@ -1,4 +1,4 @@
-const apikey = "BhSATJdE6rhjzw5wH3RtWRi50byK44vcnlKrP5iz";
+const apikey = "";
 const select = document.getElementById("select");
 
 async function getEnergyData() {
